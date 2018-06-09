@@ -4,8 +4,8 @@
   "description": "FTDI bindings for Node.js",
   "main": "index.js",
   "dependencies": {
-    "bindings": "^1.2.1",
-    "nan": "^2.4.0"
+    "bindings": "^1.3.0",
+    "nan": "^2.10.0"
   },
   "gypfile": true,
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/thomaschaaf/node-ftdi.git"
+    "url": "git://github.com/macchie/node-ftdi.git"
   },
   "keywords": [
     "ftdi",
@@ -22,9 +22,9 @@
     "driver",
     "device"
   ],
-  "homepage": "https://github.com/thomaschaaf/node-ftdi",
+  "homepage": "https://github.com/macchie/node-ftdi",
   "bugs": {
-    "url": "https://github.com/thomaschaaf/node-ftdi/issues"
+    "url": "https://github.com/macchie/node-ftdi/issues"
   },
   "license": "MIT"
 }
